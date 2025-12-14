@@ -35,6 +35,7 @@ Hi, I'm Naresh Y👋
 - 🍽️ **Tablet-Based Ordering System** – Java, Node.js, MySQL, HTML/CSS  
 - 🔹 Other mini projects in Web Development
 
+-----
 
 ## 📫 Connect With Me
 - 📧 Email: **mr.nareshy006@gmail.com**  
