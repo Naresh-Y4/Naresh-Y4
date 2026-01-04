@@ -19,7 +19,7 @@ Hi, I'm Naresh Y👋
 - **Languages:** Java, C,C++,JavaScript  
 - **Frontend:** HTML, CSS
 - **Backend:** Node.js
-- **Database:** MySQL 
+- **Database:** MySQL,PostgreSql
 - **Core Concepts:** OOP, Data Structures & Algorithms, Software Engineering,Requirement Engineering,Software Architecture
 - **Tools:** Git, GitHub,Visual Studio Code,Mysql Workbench
 
